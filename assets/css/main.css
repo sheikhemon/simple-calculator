@@ -29,11 +29,14 @@ h1{
 }
 input{
     font-size: 34px;
+    font-weight: 500;
+    padding-right: 20px;
+    text-align: right;
     border: 2px solid #faeced;
     border-radius: 5px;
     outline: none;
     width: auto;
-    height: 35px;
+    height: 40px;
 }
 button{
     font-size: 25px;
